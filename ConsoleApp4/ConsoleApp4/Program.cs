@@ -41,6 +41,7 @@ namespace ConsoleApp4
             Console.Read();
         }
 
+
         static bool isPalindrome(string s)
         {
             string pal = "";
