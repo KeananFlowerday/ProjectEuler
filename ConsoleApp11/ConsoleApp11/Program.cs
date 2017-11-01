@@ -15,7 +15,7 @@ namespace ConsoleApp11
         public void Solve()
         {
 
-            string filename = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\Input.txt";
+            string filename = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\Input.txt";
             const int numbersInProduct = 4;
 
             DateTime startTime = DateTime.Now;
